@@ -1,8 +1,6 @@
-# FileTug
+# FileTug - Modern CLI file browser/picker with neat UI
 
-Modern CLI file browser/picker with neat UI (open source: go/tview)
-
-
+**Open source repository**: https://github.com/filetug/filetug
 
 ## Why FileTug and not MC/ranger/etc.?
 
@@ -55,7 +53,3 @@ To start at the specific directory or file:
 ```shell
 ft <PATH_TO_DIRECTORY_OR_FILE>
 ```
-
-## Repositories:
-
-- https://github.com/filetug/filetug
